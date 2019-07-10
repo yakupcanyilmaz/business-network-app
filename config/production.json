@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://can:can123@gamecloud-dz0x7.mongodb.net/test?retryWrites=true",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "3c619acf3e3305ce1486",
+  "githubSecret": "53d7b694412334b363ffb029a95f867d9e8c9076"
+}
